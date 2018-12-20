@@ -1,2 +1,0 @@
-# aunsightDesignSystem
-Created with CodeSandbox
